@@ -89,3 +89,13 @@ PG_DB_NAME=biblioteca
 ```
 
 ## 🔐 Autenticação
+
+###Instale o Auth
+```bash
+yarn add @adonisjs/auth@8.2.3
+```
+###Configure o Auth
+```bash
+node ace configure @adonisjs/auth
+```
+**Para as configurações, selecione: `Lucid` -> `Api Tokens`, e digite `User` quando perguntado o nome do modelo para autenticação. Selecione em seguida `true` e `Database`**
