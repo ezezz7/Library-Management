@@ -162,3 +162,6 @@ node ace make:controller Livro -r
 ### Certifique-se que todas as suas rotas estão referenciando o lugar certo, configurando-as em `start` ->  
 
 ### Utilize APIs Client como `bruno` para poder testar seu código
+
+## Referências
+Confira mais sobre as documentações oficiais do AdonisJS em: https://v5-docs.adonisjs.com/guides/introduction
