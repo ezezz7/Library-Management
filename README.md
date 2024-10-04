@@ -100,5 +100,5 @@ node ace configure @adonisjs/auth
 ```
 **Para as configurações, selecione: `Lucid` -> `Api Tokens`, e digite `User` quando perguntado o nome do modelo para autenticação. Selecione em seguida `true` e `Database`**
 
-## Modelo de Banco de Dados
+## 🎲 Modelo de Banco de Dados
 ### Baseie-se no modelo de banco de dados a seguir para replicar e ajustar as configurações em `Models` e em `Migrations`
