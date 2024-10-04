@@ -68,7 +68,7 @@ yarn add @adonisjs/lucid@18.4.0
 node ace configure @adonisjs/lucid
 ```
 **Para as configurações, selecione: `PostegreSQL` -> `Terminal` **
-** No arquivo `env.ts`, utilize as variáveis:
+No arquivo `env.ts`, utilize as variáveis:**
 
 ```bash
 PG_HOST: Env.schema.string({ format: 'host' }),
