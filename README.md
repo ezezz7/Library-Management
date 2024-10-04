@@ -16,3 +16,15 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 
 ```bash
 node -v
+
+```
+### Prossiga com a instalação do Adonis
+
+```bash
+npm init adonis-ts-app@latest api
+```
+**ou**
+
+```bash
+yarn add adonis-ts-app@latest api
+```
