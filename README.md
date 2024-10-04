@@ -163,5 +163,5 @@ node ace make:controller Livro -r
 
 ### Utilize APIs Client como `bruno` para poder testar seu código
 
-## Referências
+## 📜 Referências
 Confira mais sobre as documentações oficiais do AdonisJS em: https://v5-docs.adonisjs.com/guides/introduction
