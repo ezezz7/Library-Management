@@ -159,6 +159,6 @@ node ace make:controller Livro -r
 
 ## Rotas de Autenticação
 
-### Certifique-se que todas as suas rotas estãpo
+### Certifique-se que todas as suas rotas estão referenciando o lugar certo
 
-### Utilize softwares como bruno para poder testar seu código
+### Utilize APIs Client como `bruno` para poder testar seu código
