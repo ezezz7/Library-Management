@@ -11,8 +11,8 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 
 ## 🚀 Guia de Projeto
 
-Siga os passos abaixo para configurar o projeto em sua própria máquina.
+**Siga os passos abaixo para configurar o projeto em sua própria máquina.**
+# Verfique se o nodejs está instalado:
 
 ```bash
-# Verfique se o nodejs está instalado:
 node -v
