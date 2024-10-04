@@ -116,7 +116,24 @@ node ace make:model Emprestimo -c -m
 
 *Colocar o diagrama completo aqui*
 
-### Com tudo feito adequadamente, execute o comando a seguir para rodar as migrations:**
+### Com tudo feito adequadamente, execute o comando a seguir para rodar as migrations:
 ```bash
 node ace migration:run
+```
+## 📊 Consulta no PostgreSQL
+### Para checar se tudo foi feito com sucesso, siga os seguintes passos:
+**Entre novamente no PostgreSQL:**
+```bash
+docker exec -it postgres sql -U postgres
+```
+**Acesse sua database:**
+```bash
+\c biblioteca
+```
+**Confira a database inteira ou se quiser, só uma em específoico com os comandos:**
+```bash
+\dt
+```
+```bash
+\d users [ou alguma outra tabela de sua escolha]
 ```
