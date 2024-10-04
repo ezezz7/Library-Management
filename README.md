@@ -67,3 +67,4 @@ yarn add @adonisjs/lucid@18.4.0
 ```bash
 node ace configure @adonisjs/lucid
 ```
+**Para as configurações, selecione: `PostegreSQL` -> `Terminal` -> 
