@@ -156,3 +156,9 @@ node ace make:controller Livro -r
 ```
 
 ### Realize todos os comandos necessários de `Store`, `Show`, `Index`, `Update`, `Delete` 
+
+## Rotas de Autenticação
+
+### Certifique-se que todas as suas rotas estãpo
+
+### Utilize softwares como bruno para poder testar seu código
