@@ -57,12 +57,12 @@ yarn add adonis-ts-app@latest api
 
 ## 📚 Database
 
-### 👣 Instale o Lucid
+### Instale o Lucid
 
 ```bash
 yarn add @adonisjs/lucid@18.4.0
 ```
-### 👣 Configure a biblioteca
+### Configure a biblioteca
 
 ```bash
 node ace configure @adonisjs/lucid
