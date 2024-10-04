@@ -105,7 +105,7 @@ node ace configure @adonisjs/auth
 
 *Aqui colocar só a tabela de User*
 
-### Feito isso, crie mais duas migrations, uma para `Livro` e uma para `Emprestimo`, e as configure em `Models` e em `Migrations, fazendo as relações necessárias`
+### Feito isso, crie mais duas migrations, uma para `Livro` e uma para `Emprestimo`, e as configure em `Models` e em `Migrations`, fazendo as relações necessárias
 ```bash
 node ace make:model Livro -c -m
 ```
