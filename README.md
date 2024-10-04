@@ -114,7 +114,8 @@ node ace make:model Emprestimo -c -m
 ```
 **Aqui está o diagrama completo para embasamento:**
 
-*Colocar o diagrama completo aqui*
+![drawSQL-image-export-2024-10-04(1)](https://github.com/user-attachments/assets/958616e7-68e6-4b3f-a300-d98ad0f9bb95)
+
 
 ### Com tudo feito adequadamente, execute o comando a seguir para rodar as migrations:
 ```bash
