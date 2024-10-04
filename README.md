@@ -12,6 +12,30 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 # 🚀 Guia de Projeto
 
 **Siga os passos abaixo para configurar o projeto em sua própria máquina.**
+## Docker
+
+### Certifique-se de instalar o Docker e então crie um contâiner padrão
+
+```bash
+docker run –name postgres -p 3333 -e POSTGRES_PASSWORD=secret -d postgres
+
+```
+
+### Rode o SQL 
+```bash
+docker exec -it postgres sql -U postgres
+```
+
+### Crie uma database 
+```bash
+create database biblioteca;
+```
+
+### Saia do docker com:
+```bash
+\q
+```
+
 ### 👣 Verfique se o nodejs está instalado:
 
 ```bash
