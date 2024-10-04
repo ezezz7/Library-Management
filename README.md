@@ -12,19 +12,20 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 ## 🚀 Guia de Projeto
 
 **Siga os passos abaixo para configurar o projeto em sua própria máquina.**
-### Verfique se o nodejs está instalado:
+### 👣 Verfique se o nodejs está instalado:
 
 ```bash
 node -v
 
 ```
-### Prossiga com a instalação do Adonis
+### 👣 Prossiga com a instalação do Adonis
 
 ```bash
 npm init adonis-ts-app@latest api
 ```
-**ou utilize yarn**
+**Ou utilize yarn**
 
 ```bash
 yarn add adonis-ts-app@latest api
 ```
+**Para as configurações do projeto, selecione: API -> Insira o nome como API -> Selecione "True" para ambos eslint e prettier
