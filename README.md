@@ -139,3 +139,7 @@ docker exec -it postgres sql -U postgres
 ```
 
 ## 🎮 Controllers
+### Crie o controller de User
+```bash
+node ace make:controller User -r
+```
