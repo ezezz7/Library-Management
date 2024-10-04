@@ -37,13 +37,13 @@ create database biblioteca;
 ```
 ## 🏁 Inicialização do AdonisJS
 
-### 👣 Verfique se o nodejs está instalado:
+### Verfique se o nodejs está instalado:
 
 ```bash
 node -v
 
 ```
-### ➡️ Prossiga com a instalação do Adonis
+### ➡Prossiga com a instalação do Adonis
 
 ```bash
 npm init adonis-ts-app@latest api
