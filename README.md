@@ -9,7 +9,7 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 - 📝 **Registro de empréstimos e devoluções**: Controle quem pegou qual livro e quando deve devolvê-lo.
 - 🔐 **Autenticação**: O sistema conta com um controle de usuários, permitindo a criação de contas e a autenticação para realizar operações no sistema.
 
-## 🚀 Guia de Projeto
+# 🚀 Guia de Projeto
 
 **Siga os passos abaixo para configurar o projeto em sua própria máquina.**
 ### 👣 Verfique se o nodejs está instalado:
@@ -29,3 +29,16 @@ npm init adonis-ts-app@latest api
 yarn add adonis-ts-app@latest api
 ```
 **Para as configurações do projeto, selecione: API -> Insira o nome como API -> Selecione "True" para ambos eslint e prettier**
+
+## Database
+
+### 👣 Instale o Lucid
+
+```bash
+yarn add @adonisjs/lucid@18.4.0
+```
+### 👣 Configure a biblioteca
+
+```bash
+node ace configure @adonisjs/lucid
+```
