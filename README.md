@@ -23,7 +23,7 @@ node -v
 ```bash
 npm init adonis-ts-app@latest api
 ```
-**ou**
+**ou utilize yarn**
 
 ```bash
 yarn add adonis-ts-app@latest api
