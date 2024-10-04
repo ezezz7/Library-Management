@@ -146,3 +146,11 @@ docker exec -it postgres sql -U postgres
 ```bash
 node ace make:controller User -r
 ```
+### Crie o controller de Emprestimo
+```bash
+node ace make:controller Emprestimo -r
+```
+### Crie o controller de Livro
+```bash
+node ace make:controller Livro -r
+```
