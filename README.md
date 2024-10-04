@@ -101,7 +101,7 @@ node ace configure @adonisjs/auth
 **Para as configurações, selecione: `Lucid` -> `Api Tokens`, e digite `User` quando perguntado o nome do modelo para autenticação. Selecione em seguida `true` e `Database`**
 
 ## 🎲 Modelo de Banco de Dados
-### Baseie-se no modelo de banco de dados a seguir para replicar e ajustar as configurações em `Models` e em `Migrations`
+### Baseie-se no modelo de banco de dados a seguir para replicar e ajustar as configurações em `Models` e em `Migrations` (Ignore a última tupla de datatype para serial)
 
 
 ![drawSQL-image-export-2024-10-04(3)](https://github.com/user-attachments/assets/17abd06a-6926-41bc-9457-bdaea95ce665)
