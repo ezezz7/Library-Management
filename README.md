@@ -116,7 +116,7 @@ node ace make:model Emprestimo -c -m
 ```
 **Aqui está o diagrama completo para embasamento:**
 
-![drawSQL-image-export-2024-10-04(1)](https://github.com/user-attachments/assets/958616e7-68e6-4b3f-a300-d98ad0f9bb95)
+![drawSQL-image-export-2024-10-04(4)](https://github.com/user-attachments/assets/5d18197c-a093-4318-8aa9-46a5e8c3b058)
 
 
 ### Com tudo feito adequadamente, execute o comando a seguir para rodar as migrations:
@@ -155,10 +155,10 @@ node ace make:controller Emprestimo -r
 node ace make:controller Livro -r
 ```
 
-### Realize todos os comandos necessários de `Store`, `Show`, `Index`, `Update`, `Delete` 
+### ⚙️ Realize todos os comandos necessários de `Store`, `Show`, `Index`, `Update`, `Delete` 
 
-## Rotas de Autenticação
+## 🚗 Rotas de Autenticação
 
-### Certifique-se que todas as suas rotas estão referenciando o lugar certo
+### Certifique-se que todas as suas rotas estão referenciando o lugar certo, configurando-as em `start` ->  
 
 ### Utilize APIs Client como `bruno` para poder testar seu código
