@@ -87,3 +87,5 @@ PG_USER=ṕostgres
 PG_PASSWORD=secret
 PG_DB_NAME=biblioteca
 ```
+
+## 🔐 Autenticação
