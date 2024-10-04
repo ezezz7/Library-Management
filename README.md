@@ -90,11 +90,11 @@ PG_DB_NAME=biblioteca
 
 ## 🔐 Autenticação
 
-###Instale o Auth
+### Instale o Auth
 ```bash
 yarn add @adonisjs/auth@8.2.3
 ```
-###Configure o Auth
+### Configure o Auth
 ```bash
 node ace configure @adonisjs/auth
 ```
