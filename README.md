@@ -28,4 +28,4 @@ npm init adonis-ts-app@latest api
 ```bash
 yarn add adonis-ts-app@latest api
 ```
-**Para as configurações do projeto, selecione: API -> Insira o nome como API -> Selecione "True" para ambos eslint e prettier
+**Para as configurações do projeto, selecione: API -> Insira o nome como API -> Selecione "True" para ambos eslint e prettier**
