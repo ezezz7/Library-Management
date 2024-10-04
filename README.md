@@ -43,7 +43,7 @@ create database biblioteca;
 node -v
 
 ```
-### ➡Prossiga com a instalação do Adonis
+### Prossiga com a instalação do Adonis
 
 ```bash
 npm init adonis-ts-app@latest api
