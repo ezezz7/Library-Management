@@ -155,4 +155,4 @@ node ace make:controller Emprestimo -r
 node ace make:controller Livro -r
 ```
 
-### Realize todos os comandos necessários de Store, Show, Index, Update, Delete 
+### Realize todos os comandos necessários de `Store`, `Show`, `Index`, `Update`, `Delete` 
