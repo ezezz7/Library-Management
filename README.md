@@ -102,3 +102,20 @@ node ace configure @adonisjs/auth
 
 ## 🎲 Modelo de Banco de Dados
 ### Baseie-se no modelo de banco de dados a seguir para replicar e ajustar as configurações em `Models` e em `Migrations`
+
+*Aqui colocar só a tabela de User*
+
+### Feito isso, crie mais duas migrations, uma para `Livro` e uma para `Emprestimo`, e as configure em `Models` e em `Migrations, fazendo as relações necessárias`
+
+node ace make:model Livro -c -m
+
+node ace make:model Emprestimo -c -m
+
+**Aqui está o diagrama completo para embasamento:**
+
+*Colocar o diagrama completo aqui*
+
+### Com tudo feito adequadamente, execute o comando a seguir para rodar as migrations:**
+```bash
+node ace migration:run
+```
