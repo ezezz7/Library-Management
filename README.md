@@ -14,7 +14,7 @@ O projeto em questão é um sistema para gestão de livros em uma biblioteca. Ut
 **Siga os passos abaixo para configurar o projeto em sua própria máquina.**
 ## **🐳 Docker**
 
-### Certifique-se de instalar o Docker e então crie um container padrão
+### Certifique-se de instalar o Docker, e então crie um container padrão
 
 ```bash
 docker run –name postgres -p 3333 -e POSTGRES_PASSWORD=secret -d postgres
@@ -26,7 +26,7 @@ docker run –name postgres -p 3333 -e POSTGRES_PASSWORD=secret -d postgres
 docker exec -it postgres sql -U postgres
 ```
 
-### Crie uma database 
+### Crie uma database (colocamos biblioteca)
 ```bash
 create database biblioteca;
 ```
@@ -35,6 +35,7 @@ create database biblioteca;
 ```bash
 \q
 ```
+## ** 🏁 Inicialização do AdonisJS**
 
 ### 👣 Verfique se o nodejs está instalado:
 
