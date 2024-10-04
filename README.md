@@ -77,3 +77,13 @@ PG_USER: Env.schema.string(),
 PG_PASSWORD: Env.schema.string.optional(),
 PG_DB_NAME: Env.schema.string(),
 ```
+
+**No arquivo `.env`, selecione suas informações do docker. Se seguiu o guia, deve ficar assim:**
+```bash
+DB_CONNECTION=pg
+PG_HOST=localhost
+PG_PORT=5432
+PG_USER=ṕostgres
+PG_PASSWORD=secret
+PG_DB_NAME=biblioteca
+```
