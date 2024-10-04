@@ -103,7 +103,8 @@ node ace configure @adonisjs/auth
 ## 🎲 Modelo de Banco de Dados
 ### Baseie-se no modelo de banco de dados a seguir para replicar e ajustar as configurações em `Models` e em `Migrations`
 
-*Aqui colocar só a tabela de User*
+![drawSQL-image-export-2024-10-04(2)](https://github.com/user-attachments/assets/ed5dd35a-c3bc-4fbb-8b61-dd82160b1cbb)
+
 
 ### Feito isso, crie mais duas migrations, uma para `Livro` e uma para `Emprestimo`, e as configure em `Models` e em `Migrations`, fazendo as relações necessárias
 ```bash
