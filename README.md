@@ -35,7 +35,7 @@ create database biblioteca;
 ```bash
 \q
 ```
-## ** 🏁 Inicialização do AdonisJS**
+## 🏁 Inicialização do AdonisJS
 
 ### 👣 Verfique se o nodejs está instalado:
 
