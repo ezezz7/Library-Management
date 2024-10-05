@@ -83,7 +83,7 @@ PG_DB_NAME: Env.schema.string(),
 DB_CONNECTION=pg
 PG_HOST=localhost
 PG_PORT=5432
-PG_USER=ṕostgres
+PG_USER=postgres
 PG_PASSWORD=secret
 PG_DB_NAME=biblioteca
 ```
