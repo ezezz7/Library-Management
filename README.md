@@ -163,8 +163,8 @@ node ace make:controller Livro -r
 
 ### Utilize APIs Client como `bruno` para poder testar seu código
 
-## ❗ ATENÇÃO!
-### Caso baixe o arquivo pronto no repositório, lembrar de fazer o comando `yarn add` para instalar o node_modules novamente, e então, feche o VSCode
+## ❗ ATENÇÃO
+### Caso baixe o arquivo pronto no repositório, lembrar de fazer o comando `yarn add` para instalar o node_modules novamente, e então, reinicie o VSCode
 
 ## 📜 Referências
 Confira mais sobre as documentações oficiais do AdonisJS em: https://v5-docs.adonisjs.com/guides/introduction
